@@ -31,6 +31,8 @@ SELECT * FROM someTable WHERE category=Gifts UNION SELECT (username column) (pas
 
 ![image](https://user-images.githubusercontent.com/65653010/235329735-c744da42-7b41-4f80-8d63-95d5fb9c0c7c.png)
 
+Now after we get the username and password of administrator we login into it
+
 ![image](https://user-images.githubusercontent.com/65653010/235329762-8e5cd54a-5277-4971-9d71-455ebe2644ba.png)
 
 
