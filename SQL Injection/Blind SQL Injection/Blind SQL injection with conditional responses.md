@@ -49,3 +49,7 @@ The response shows no 'Welcome Back' message, the password length is exactly 20
 Now we determine the password by checking each character with each position.
 
 ![image](https://user-images.githubusercontent.com/65653010/235406926-92f62818-b7eb-40cd-978e-96c421c8c1da.png)
+
+As we decode the password from intruder we get the password as '8kwtsz3a1hmw16w9mnb1' and login as administrator
+
+![image](https://user-images.githubusercontent.com/65653010/235433781-d2adbaee-8608-4aeb-b454-0a6183102c93.png)
