@@ -21,6 +21,13 @@
 
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/69bbb3c7-b057-48bd-a539-a6ebb427b99d)
 
+- Now we identify the length of the password by giving a query 
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/112711a7-cb30-429b-a03f-3064ed68b3e9)
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/525b7af0-ac08-4fe9-85fe-95cfb225bd46)
+
+
 
 
 
