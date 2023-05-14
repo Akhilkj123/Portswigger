@@ -13,5 +13,15 @@
  
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/27b9df61-84b1-4c8a-9591-1f425c90e532)
 
+- Now we check whether any user called administrator there or not
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/b199bcfe-af7a-43d7-8186-8be93d83905a)
+
+- Since it produces a delay of 10s for response, there is a username such present.
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/69bbb3c7-b057-48bd-a539-a6ebb427b99d)
+
+
+
 
 
