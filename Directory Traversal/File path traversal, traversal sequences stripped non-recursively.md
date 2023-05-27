@@ -1,4 +1,4 @@
-- Consider a shopping application with Directory Traversal Vulnerability.
+- Consider a shopping application contains a file path traversal vulnerability in the display of product images. 
 
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/eec67952-094c-46d2-9b4b-a33720487976)
 
