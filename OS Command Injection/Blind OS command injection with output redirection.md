@@ -14,7 +14,11 @@
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/02dc34b0-6f06-4539-89f2-65b8922046d9)
 
 
-
 - We now give the saved file as the filename.
 
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/2cb23d0c-f535-4fe6-a3ca-e4899c91fc1f)
+
+- So, the lab is completed.
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/77fbd629-0df7-49c7-af10-ab83e876c3f9)
+
