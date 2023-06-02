@@ -12,4 +12,9 @@
 
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/8475c8af-9c68-48db-8a41-ba6a2a50dc7f)
 
+- Now delete the user 'carlos'
+ 
+ ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/b1b4e859-a021-400a-80f7-5e18517e2d82)
+
+
 
