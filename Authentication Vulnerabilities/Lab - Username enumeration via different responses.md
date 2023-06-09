@@ -28,6 +28,9 @@
 
 - With the obtained credentials we login to the shopping application
 
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/1e64cc48-850f-4c33-8b1d-6506ba996c2d)
+
+
 
 
 
