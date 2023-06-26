@@ -10,4 +10,14 @@
 
 ![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/465b558f-2a97-4d6a-bedc-f0fb191eb3f2)
 
-- 
+- Now we change the URL to 'http://127.1/admin' and observe that the URL is blocked again.
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/4d73ba25-d15b-48ad-8636-dd9c43b9a511)
+
+- We try buy obfuscating the first letter with URL encoding
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/126f1939-d8de-4394-8073-ec2ffc466e62)
+
+- As we get the admin privilege we delete the user carlos
+
+![image](https://github.com/Akhilkj123/Portswigger/assets/65653010/32944c9f-1fb4-40a7-a6b7-cd084a9901dd)
